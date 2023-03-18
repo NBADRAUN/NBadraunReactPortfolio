@@ -1,13 +1,13 @@
-import React, { Component } from 'react'
+import React from 'react'; 
+import Form from "../Components/Form"; 
 
-class Contact extends Component {
-render() {
+function Contact() {
     return (
-        <section className='section'>
-            <h2>Contact</h2>
-        </section>
+        <div>
+            <Form />
+        </div>
     ); 
-}; 
-}; 
+}
+
 
 export default Contact; 

@@ -1,13 +1,51 @@
-import React, { Component } from 'react'
+import React from 'react';
 
-class Resume extends Component {
-render() {
+
+const styles = {
+    
+    title: {
+        textAlign: 'center', 
+        fontFamily: 'Tahoma, Verdana, sans-serif',
+        marginTop: 20, 
+        background: 'black', 
+        fontSize: '30px', 
+        align: 'center', 
+        color: 'white', 
+    }, 
+
+    subtitle: {
+        textAlign: 'center', 
+        fontFamily: 'Tahoma, Verdana, sans-serif',
+        background: 'black', 
+        marginTop: '50px', 
+        fontSize: '30px', 
+        color: 'white', 
+    }, 
+        
+    content: {
+        textAlign: 'center', 
+        fontFamily: 'Tahoma, Verdana, sans-serif',
+        background: 'black', 
+        marginTop: '10px', 
+        fontSize: '20px', 
+        color: 'white', 
+      }
+  };
+
+
+function Resume() {
     return (
-        <section className='section'>
-            <h2>Resume</h2>
-        </section>
+    <>
+    <section style={styles.content}>
+        <div style={styles.subtitle}> Education </div>
+        <div style={styles.content}> 
+        Univeristy of Denver - Full Stack
+
+    </div>
+    </section>
+    </>
     ); 
 }; 
-}; 
+
 
 export default Resume; 

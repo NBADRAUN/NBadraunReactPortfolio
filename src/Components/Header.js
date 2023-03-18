@@ -1,16 +1,14 @@
-import React, { Component } from "react";
+import React from 'react';
+import Nav from "../Components/Nav/Nav"; 
 
-class Header extends Component {
-    render() {
+function Header() {
      return (
-    <header id="home">
-        <p>this is the header</p>
-        </header>
-     ); 
+        <div>
+        <Nav />
+      </div>
+    );
 
     }
-
-}
 
 
 
