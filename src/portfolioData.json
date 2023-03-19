@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1, 
+        "projectname": "Horiseon Website Accessibility Refactoring", 
+        "image": "Images/Horiseon_Thumbnail.PNG",
+        "imagealttext": "Horiseon Website Image", 
+        "url": "https://nbadraun.github.io/Module-1-Challenge/" 
+
+    }, 
+    {
+        "id": 2, 
+        "projectname": "DU Student Bio", 
+        "image": "Images/Student_Bio.jpg", 
+        "imagealttext": "Picture of Nick", 
+        "url": "https://nbadraun.github.io/Nick_Badraun_Student_Bio/"  
+    }, 
+    {
+        "id": 3, 
+        "projectname": "Bring Popcorn", 
+        "image": "Images/BringPopcornThumbnail.PNG", 
+        "imagealttext": "Screenshot of Bring Popcorn Website", 
+        "url": "https://nbadraun.github.io/Bring-Popcorn/"  
+    }, 
+    {
+        "id": 4, 
+        "projectname": "GetFit", 
+        "image": "Images/GetFit.PNG", 
+        "imagealttext": "Screenshot of GetFit Website", 
+        "url": "https://workout-planner.herokuapp.com/"  
+    }
+
+]
+

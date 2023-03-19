@@ -1,20 +1,11 @@
 import React from 'react';
 
 const styles = {
-  //  subtitle: {
-  //     fontStyle: 'normal', 
-  //     fontFamily: 'Tahoma, Verdana, sans-serif',
-  //     fontSize: '25px', 
-  //     margin: 'auto', 
-  //     position: 'relative', 
-  //     color: 'white', 
-  //     width: 'auto', 
-  //     textAlign: 'center', 
-  // }, 
+
   content: {
     color: 'white', 
     position: 'absolute',
-    bottom: '10px', 
+    bottom: '80px', 
     width: '100%', 
     
     }

@@ -1,5 +1,5 @@
 import React from 'react';
-import NickImage from "../Images/Badraun2.JPG"; 
+import NickImage from "./Badraun2.JPG"; 
 
 
 const styles = {
