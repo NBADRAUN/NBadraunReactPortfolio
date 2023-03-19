@@ -27,6 +27,20 @@
         "image": "Images/GetFit.PNG", 
         "imagealttext": "Screenshot of GetFit Website", 
         "url": "https://workout-planner.herokuapp.com/"  
+    },
+    {
+        "id": 5, 
+        "projectname": "NoteTaker", 
+        "image": "Images/NoteTaker.PNG", 
+        "imagealttext": "Screenshot of NoteTaker Website", 
+        "url": "https://takenote.herokuapp.com/"  
+    }, 
+    {
+        "id": 5, 
+        "projectname": "5 Day Forecast", 
+        "image": "Images/5dayforecast.PNG", 
+        "imagealttext": "Screenshot of 5 day forecast Website", 
+        "url": "https://nbadraun.github.io/5-day-forecast/"  
     }
 
 ]

@@ -7,9 +7,10 @@ const styles = {
     textAlign: "center",
     fontFamily: "Tahoma, Verdana, sans-serif",
     background: "black",
-    marginTop: "50px",
+    margin: "50px",
     fontSize: "20px",
     color: "white",
+
   },
   image: {
     width: "30%", 
