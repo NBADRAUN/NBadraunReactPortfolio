@@ -4,7 +4,8 @@
         "projectname": "Horiseon Website Accessibility Refactoring", 
         "image": "Images/Horiseon_Thumbnail.PNG",
         "imagealttext": "Horiseon Website Image", 
-        "url": "https://nbadraun.github.io/Module-1-Challenge/" 
+        "url": "https://nbadraun.github.io/Module-1-Challenge/", 
+        "github": "https://github.com/NBADRAUN/horiseon-accessibility-refactor-Challenge" 
 
     }, 
     {
@@ -12,35 +13,41 @@
         "projectname": "DU Student Bio", 
         "image": "Images/Student_Bio.jpg", 
         "imagealttext": "Picture of Nick", 
-        "url": "https://nbadraun.github.io/Nick_Badraun_Student_Bio/"  
+        "url": "https://nbadraun.github.io/Nick_Badraun_Student_Bio/", 
+        "github": "https://github.com/NBADRAUN/Nick_Badraun_Student_Bio"  
     }, 
     {
         "id": 3, 
         "projectname": "Bring Popcorn", 
         "image": "Images/BringPopcornThumbnail.PNG", 
         "imagealttext": "Screenshot of Bring Popcorn Website", 
-        "url": "https://nbadraun.github.io/Bring-Popcorn/"  
+        "url": "https://nbadraun.github.io/Bring-Popcorn/", 
+        "github": "https://github.com/NBADRAUN/Bring-Popcorn"  
     }, 
     {
         "id": 4, 
         "projectname": "GetFit", 
         "image": "Images/GetFit.PNG", 
         "imagealttext": "Screenshot of GetFit Website", 
-        "url": "https://workout-planner.herokuapp.com/"  
+        "url": "https://workout-planner.herokuapp.com/", 
+        "github": "https://github.com/Jelenarog/Workout-planner"
+
     },
     {
         "id": 5, 
         "projectname": "NoteTaker", 
         "image": "Images/NoteTaker.PNG", 
         "imagealttext": "Screenshot of NoteTaker Website", 
-        "url": "https://takenote.herokuapp.com/"  
+        "url": "https://takenote.herokuapp.com/", 
+        "github": "https://github.com/NBADRAUN/TakeNote"  
     }, 
     {
         "id": 5, 
         "projectname": "5 Day Forecast", 
         "image": "Images/5dayforecast.PNG", 
         "imagealttext": "Screenshot of 5 day forecast Website", 
-        "url": "https://nbadraun.github.io/5-day-forecast/"  
+        "url": "https://nbadraun.github.io/5-day-forecast/", 
+        "github": "https://github.com/NBADRAUN/5-day-forecast"  
     }
 
 ]

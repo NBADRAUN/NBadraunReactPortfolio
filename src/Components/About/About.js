@@ -10,6 +10,7 @@ const styles = {
         background: 'black', 
         marginTop: '50px', 
         fontSize: '30px', 
+        margin: "50px",
         color: 'white', 
     }, 
         
@@ -22,7 +23,6 @@ const styles = {
         color: 'white', 
       },
     picture: {
-        marginTop: '20px', 
         width: '30%', 
         height: '30%', 
     }

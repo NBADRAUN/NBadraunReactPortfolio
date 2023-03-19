@@ -26,13 +26,16 @@ function Portfolio() {
 
   return (
     <>
+    
     <div style={styles.body}>
+    <h1>Projects</h1>  
     { Data.map(post => {
           return(
         <div style={styles.body} key={ post.id }>
             <h3>{ post.projectname}</h3> 
             <div><img style={styles.image} src={post.image} alt={post.imagealttext}></img></div>
-            <a style={styles.li} href={ post.url } rel="noreferrer" target="_blank">Click to View</a>
+            <div><a style={styles.li} href={ post.url } rel="noreferrer" target="_blank">Click to View Page</a></div>
+            <div><a style={styles.li} href={ post.github } rel="noreferrer" target="_blank">Click to view GitHub Repo</a></div>
         </div>
             )
         })}
